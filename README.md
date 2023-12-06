@@ -5,7 +5,7 @@
 #### 👋 Welcome to my GitHub.👋
 
 ### 💬 SNS : 
-<a href="(https://velog.io/@obebe_00)"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"/></a>
+<a href="https://velog.io/@obebe_00"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"/></a>
 
 
   <br/>
