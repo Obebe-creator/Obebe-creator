@@ -7,7 +7,7 @@
 #### 💬 SNS : 
 <a href="https://velog.io/@obebe_00"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"/></a> <a href="https://www.instagram.com/sunghyunn_00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=black"/></a>
 #### 📫 EMAIL :
-<a href="https://www.instagram.com/sunghyunn_00/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=black"/></a> <a href="https://www.instagram.com/sunghyunn_00/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=black"/></a>
+<a href="mailto:shkim000905@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=black"/></a> <a href="mailto:shkim000905@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=black"/></a>
 
 
 
