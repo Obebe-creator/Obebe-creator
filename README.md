@@ -4,7 +4,7 @@
 
 #### 👋 Welcome to my GitHub.👋
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://velog.io/@obebe_00)" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"/></a>
+<a href="(https://velog.io/@obebe_00)" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"/></a>
 
 
   <br/>
