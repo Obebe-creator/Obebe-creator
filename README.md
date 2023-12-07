@@ -2,9 +2,8 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Venom&text=I&nbsp;am&nbsp;Obebe.&stroke=552F5E&&fontSize=55)
 
-### 😈 I am Obebe 😈<br/> Welcome My GitHub
+## 😈 Welcome My GitHub 😈<br/> ![0f7e8e9f1eb842d6f15ca3da7aa60a732a10d936](https://github.com/Obebe-creator/Obebe-creator/assets/81079482/a48669b5-9ad6-48ed-b5b0-f83c02dd70fd)
 
-![0f7e8e9f1eb842d6f15ca3da7aa60a732a10d936](https://github.com/Obebe-creator/Obebe-creator/assets/81079482/a48669b5-9ad6-48ed-b5b0-f83c02dd70fd)
 
 
 #### 💬 SNS : 
@@ -16,7 +15,14 @@
 #### 📚Stack :
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=black"/></a> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=black"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obebe-creator&show_icons=true&theme=radical)
+
+### 🖤My Favorite...
+⚽Football 💻Programming ❤️Arsenal 🖥️Game
+
+#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obebe-creator&show_icons=true&theme=dark)
+[![Obebe-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Obebe-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Obebe-creator)
 
 
 
